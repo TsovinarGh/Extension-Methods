@@ -15,11 +15,11 @@ namespace ConsoleTest
             int value1 = -13;
             int value2 = -28;
             int value3 = 28; 
-            Console.WriteLine(a.IsPolindrom(true));
-            Console.WriteLine(value1.SumOfDigets());
-            Console.WriteLine(value1.IsPrime());
-            Console.WriteLine(value2.IsPerfect());
-            Console.WriteLine(value3.IsPerfect());
+            Console.WriteLine(a.IsPolindrom(true));  // the output is: True 
+            Console.WriteLine(value1.SumOfDigets()); // the output is: -4
+            Console.WriteLine(value1.IsPrime());     // the output is: True
+            Console.WriteLine(value2.IsPerfect());   // the output is: False
+            Console.WriteLine(value3.IsPerfect());   // the output is: True
             Console.ReadKey();
         }
     }
