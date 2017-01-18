@@ -7,6 +7,6 @@ There is one more method which extended to String type and it checks if the stri
 
 ***How to use:***
 
-You need to add reference to ExtensionMethods library and add using of it.
+You need to add reference to ExtensionMethods library and add usage of it.
 
 ***If you want to see the test results***, go to [GitHub]( https://github.com/TsovinarGh/Extension-Methods/blob/master/ExtensionMethods/ConsoleTest/Program.cs)
